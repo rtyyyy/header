@@ -1,0 +1,19 @@
+.container{
+    width: 1510px;
+    height: 75px;
+    background: black;
+    margin: auto;
+}
+.image__top{
+    padding-left: 115px;
+    padding-top: 22px;
+    padding-bottom: 22px;
+    width: 80px;
+    height: 30px;
+}
+.links__top{
+    justify-content: flex-end;
+    display: flex;
+    list-style-type: none;
+    margin: auto;
+}
